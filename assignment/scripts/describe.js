@@ -26,14 +26,14 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We make a variable called name and set it to Mary as a name.
+// Then ask for persons name.
+// If name is Mary console.log ('Hi, Mary!')
+// If name is not Mary console.log ('How do you do?')
 
 //CODE
 /*
-let name = 'Dane';
+let name = 'Mary';
 
 if (name === 'Mary') {
   console.log('Hi, Mary!');
