@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We made a variable called secret and set an expression as code = 123
+// If code is equal to 123, console.log (super)
+// Code now equals code * 2
+// If code is greater than 250, console.log (duper)
 
 //CODE
 /*
@@ -70,10 +70,10 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// If you're a student AND your zip is greater than 80000, console.log (You're a student on the West Coast!)
+// If you're not a student or your age is less than 30, console.log (What are your hobbies?)
+// If you're a student, console.log (welcome to Prime!)
+// If none of these are true, console.log (How about the weather)
 
 //CODE
 /*
